@@ -14,6 +14,7 @@
  */
 
 namespace ramazancetinkaya;
+use InvalidArgumentException;
 
 final class MorseCode
 {
