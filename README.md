@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ramazancetinkaya/morse-code">
-    <img src="logo.webp" alt="Logo">
+    <img src="logo.webp" alt="Logo" height="300" width="300">
   </a>
 
   <p align="center">
